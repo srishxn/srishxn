@@ -1,4 +1,4 @@
-# 📌 Srishan KN  
+# Srishan KN  
 
 ### AI | Machine Learning | Deep Learning | Generative AI | Full-Stack Development  
 
@@ -7,14 +7,13 @@ Hi! I’m **Srishan**, an AI/ML enthusiast passionate about building intelligent
 ---
 
 ## About Me  
-- 🎓 Final-year student exploring **AI/ML, GenAI, and Full-Stack Development**  
-- 🧠 Interested in **Transformers, RAG systems, and Agentic AI workflows**  
-- 🌱 Currently working on:  
-  - 🛰 **Real-time Transformer-based Anomaly Detection** for financial time-series  
-  - 🌾 **KrishiMitra** – a voice-first multimodal **RAG chatbot** for agriculture  
-  - 📊 **Fuzzy AHP & TOPSIS** for supply chain risk management research  
-- 💡 Short-term goal: Contribute to impactful AI-driven projects & research  
-- 🎯 Long-term goal: Build **scalable, intelligent systems** that bridge AI and real-world applications  
+-  Final-year student exploring **AI/ML, GenAI, and Full-Stack Development**  
+-  Interested in **Transformers, RAG systems, and Agentic AI workflows**  
+-  Currently working on:  
+  -  **Real-time Transformer-based Anomaly Detection** for financial time-series  
+  -  **KrishiMitra** – a voice-first multimodal **RAG chatbot** for agriculture   
+-  Short-term goal: Contribute to impactful AI-driven projects & research  
+-  Long-term goal: Build **scalable, intelligent systems** that bridge AI and real-world applications  
 
 ---
 
@@ -40,6 +39,6 @@ Hi! I’m **Srishan**, an AI/ML enthusiast passionate about building intelligent
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 
 🌐 [LinkedIn](#) | ✉️ [Email](#) | 📝 [Portfolio](#)  
