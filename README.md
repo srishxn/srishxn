@@ -3,11 +3,10 @@
 ### 🌟 About Me
 I’m a **Final-Year Data Science Undergraduate** passionate about **Machine Learning, Deep Learning, and Generative AI**. I enjoy building **intelligent systems**, exploring **transformers**, and solving **real-world problems** with code.
 
-- 🔭 Currently working on: **Real-time Anomaly Detection in Financial Data** & **Uterine Fibroid Diagnosis AI**
-- 🌱 Learning: **Agentic AI workflows**, **LangChain**, and **FastAPI for production-ready ML systems**
-- 👯 Looking to collaborate on: **Open-source ML projects** & **AI-powered web apps**
-- 💬 Ask me about: **Python, Transformers, Deep Learning, LLMs**
-- ⚡ Fun fact: I can **analyze code complexity** faster than you can say "O(n log n)" 😎
+- Currently working on: **Real-time Anomaly Detection in Financial Data** & **Uterine Fibroid Diagnosis AI**
+- Learning: **Agentic AI workflows**, **LangChain**, and **FastAPI for production-ready ML systems**
+- Looking to collaborate on: **Open-source ML projects** & **AI-powered web apps**
+- Ask me about: **Python, Transformers, Deep Learning, LLMs**
 
 ---
 
