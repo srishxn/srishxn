@@ -34,8 +34,8 @@ I’m a **Final-Year Data Science Undergraduate** passionate about **Machine Lea
 ---
 
 ### 📈 GitHub Stats
-![Srishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Srishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srishxn&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishxn&layout=compact&theme=radical)
 
 ---
 
