@@ -1,12 +1,6 @@
-# Hi there 👋, I'm Srishan KN
-
-### 🌟 About Me
+### About Me
 I’m a **Final-Year Data Science Undergraduate** passionate about **Machine Learning, Deep Learning, and Generative AI**. I enjoy building **intelligent systems**, exploring **transformers**, and solving **real-world problems** with code.
 
-- Currently working on: **Real-time Anomaly Detection in Financial Data** & **Uterine Fibroid Diagnosis AI**
-- Learning: **Agentic AI workflows**, **LangChain**, and **FastAPI for production-ready ML systems**
-- Looking to collaborate on: **Open-source ML projects** & **AI-powered web apps**
-- Ask me about: **Python, Transformers, Deep Learning, LLMs**
 
 ---
 
@@ -38,29 +32,4 @@ I’m a **Final-Year Data Science Undergraduate** passionate about **Machine Lea
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) 
 
----
 
-### 📈 GitHub Stats
-![Srishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srishxn&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishxn&layout=compact&theme=radical)
-
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-
----
-
-### ⚡ Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Real-time Anomaly Detection** | Transformer-based anomaly detection on 1-min OHLCV financial data with real-time WebSocket backend | Python, PyTorch, FastAPI, React |
-| **Uterine Fibroid Diagnosis** | Pixel-level fibroid segmentation with U-Net++, integrated GradCAM for explainability | PyTorch, OpenCV, FastAPI, React |
-| **KrishiMitra** | Agriculture advisory platform with RAG-based AI chatbot & multilingual notifications | FastAPI, LangChain, React |
-| **Time Complexity Classifier** | Fine-tuned CodeBERT model to classify code snippets into 7 complexity classes | Python, Transformers |
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
