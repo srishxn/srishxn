@@ -1,11 +1,11 @@
 ### About Me
-I'm **Srishan KN**, a final-year **Data Science undergrad** and **Python developer** passionate about building intelligent, impactful products.  
-Deeply intrigued by the power **AI and LLMs** hold to shape the future of the tech industry, I love turning complex ideas into practical, scalable systems that make a difference.  
+I'm Srishan KN, a final-year Data Science undergrad and Python developer passionate about building intelligent, scalable systems.
 
-
-I love exploring the complete AI development spectrum, from designing **data pipelines** and training **deep learning models** to integrating **LLM-powered** systems with real-world backends. I’m currently working on projects involving **Generative AI**, **LangChain**, and **LangGraph**, blending reasoning, retrieval, and automation to build smarter systems.  
-
-Beyond AI, I enjoy working on developing robust backend systems using python frameworks like Django and FastAPI. Basic understaning of React and Node.js. 
+Deeply intrigued by the power AI and LLMs hold to shape the future of the tech industry, I focus on turning complex ideas into practical, high-impact solutions.
+My interests lie in backend development, data pipelines, and Generative AI applications, bridging the gap between experimentation and production.
+I enjoy exploring the complete AI development lifecycle: from designing efficient data workflows and training deep learning models, to integrating LLM-powered systems into real-world backends using LangChain and LangGraph.
+Beyond AI, I love developing robust backend architectures with Django and FastAPI, and have a working understanding of React and Node.js for creating full-stack experiences.
+I have a solid foundation in statistics, which helps me approach data-driven problems with analytical precision, and a beginner-level understanding of Docker for containerizing and deploying applications.
 
 ---
 
